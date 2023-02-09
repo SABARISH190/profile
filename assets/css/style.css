@@ -316,7 +316,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://sabarish190.github.io/personal1/assets/img/DSC_0014.JPG") top right;
+  background: url("/assets/img/Side_Profile.JPG") top right;
   background-size: cover;
   position: relative;
 }
@@ -611,7 +611,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/me.jpg") center center no-repeat;
+  background: url("/assets/img/FullPic.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
